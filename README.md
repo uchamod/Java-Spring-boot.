@@ -1,5 +1,4 @@
-This is a one of ways that connect mysql server to spring boot application.Here i used spring data JPA & MYSQL driver dependencies.
-And i used MYSQL workbench to create database.
--reffer pom.xml file to check dependencies
--reffer application.properties file under resources package 
--reffer DBconnectionApplication main file
+Welcome to my java spring boot repostary.
+In this repostary i include solutions that how we can haddle our user data using java spring boot back-end.
+I used Intellij IDEA as my JDK and MySQL sever as DB.
+And also i used postman to test the methods(as Front-End solution)
